@@ -37,7 +37,7 @@
 #define TIC_NAME_FULL TIC_NAME " community edition"
 #define TIC_TITLE TIC_NAME_FULL " " TIC_VERSION
 #define TIC_HOST "tic80.com"
-#define TIC_WEBSITE "https://tic80.dronecvlt.ru"
+#define TIC_WEBSITE "https://" TIC_HOST
 #define TIC_COPYRIGHT "tic80.com (C) 2017-" TIC_VERSION_YEAR
 
 #define TICNAME_MAX 256
