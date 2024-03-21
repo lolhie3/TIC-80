@@ -14,6 +14,12 @@ To make a retro styled game, the whole process of creation and execution takes p
 
 ![TIC-80](https://user-images.githubusercontent.com/1101448/92492270-d6bcbc80-f1fb-11ea-9d2d-468ad015ace2.gif)
 
+[Try it out](https://tic80.dronecvlt.ru/public/)
+
+## Notice
+This repository is a fork of original TIC-80 with some differences.
+If you found a bug, this may be a fork issue, not an original TIC-80 bug.
+
 ### Features
 - Multiple programming languages: [Lua](https://www.lua.org),
   [Moonscript](https://moonscript.org),
