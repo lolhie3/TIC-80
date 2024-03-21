@@ -26,8 +26,8 @@
 #include "tic80.h"
 #include "defines.h"
 
-#define TIC_VRAM_SIZE (16*1024) //16K
-#define TIC_RAM_SIZE (TIC_VRAM_SIZE+80*1024) //16K+80K
+#define TIC_VRAM_SIZE (128*1024) //128K
+#define TIC_RAM_SIZE (TIC_VRAM_SIZE+160*1024) //128K+160K
 #define TIC_WASM_PAGE_COUNT 4 // 256K
 #define TIC_FONT_WIDTH 6
 #define TIC_FONT_HEIGHT 6
