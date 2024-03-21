@@ -41,19 +41,6 @@ You can download compiled versions for the major operating systems directly from
 ## Nightly builds
 Can be downloaded from [nightly builds](https://nightly.link/nesbox/TIC-80/workflows/build/main) page or from the [Github Actions](https://github.com/nesbox/TIC-80/actions?query=branch%3Amain) page.
 
-# Pro Version
-To help support TIC-80 development, we have a [PRO Version](https://nesbox.itch.io/tic80).
-
-This version has a few additional features and binaries can only be downloaded on our Itch.io page.
-
-For users who can't spend the money, we made it easy to build the pro version from the source code: (`cmake .. -DBUILD_PRO=On`)
-
-## Pro features
-
-- Save/load cartridges in text format, and create your game in any editor you want, also useful for version control systems.
-- Even more memory banks: instead of having only 1 memory bank you have 8.
-- Export your game without editors, and then publish it to app stores.
-
 # Community
 You can play and share games, tools and music at [https://tic80.com/play](https://tic80.com/play).
 
