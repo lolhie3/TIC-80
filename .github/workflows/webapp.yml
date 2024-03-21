@@ -27,7 +27,7 @@ jobs:
         cp bin/tic80.wasm webapp/tic80.wasm
 
     - name: Deploy
-      uses: actions/deploy-pages
+      uses: actions/deploy-pages@v4
       with:
         branch: webapp
         folder: build/webapp
