@@ -57,6 +57,7 @@
 #define CONFIG_TIC_PATH TIC_LOCAL_VERSION CONFIG_TIC
 
 #define CART_EXT ".tic"
+#define TIN_EXT ".tin"
 #define PNG_EXT ".png"
 
 #if defined(CRT_SHADER_SUPPORT)
